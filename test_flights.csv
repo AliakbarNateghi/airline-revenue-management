@@ -1,0 +1,4 @@
+flight_number,airline,departure_city,arrival_city,date
+FN1234,AirX,New York,Los Angeles,2025-05-01
+FN2345,JetStream,Chicago,San Francisco,2025-05-02
+FN3456,SkyWing,Houston,Seattle,2025-05-03
